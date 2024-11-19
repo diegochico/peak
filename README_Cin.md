@@ -1,4 +1,19 @@
 # peak
+
+### **Datos iniciales**:
+- **Edad**: 32 años
+- **Altura**: 165 cm
+- **Peso**: 55 kg
+- **Metabolismo basal estimado**: Aproximadamente 1,400-1,500 kcal/día
+- **Calorías diarias recomendadas**: Aproximadamente 1,800-2,100 kcal/día (ajustadas según actividad física)
+  
+### **Distribución de macronutrientes**:
+- **Proteínas**: 2 g/kg de peso corporal (~110 g/día)
+- **Carbohidratos**: 3-4 g/kg (~165-220 g/día)
+- **Grasas**: 0.8-1 g/kg (~45-55 g/día)
+
+---
+
 ### **Dieta semanal para una mujer de 32 años, 165 cm y 55 kg en México**
 
 Este plan está diseñado para una mujer, con un consumo calórico diario de aproximadamente 1,800-2,100 kcal. Incluye fuentes de proteínas magras, carbohidratos complejos y grasas saludables, adaptado a alimentos comunes en México.

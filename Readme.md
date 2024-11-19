@@ -1,7 +1,5 @@
 Para diseñar un plan de dieta y entrenamiento que te ayude a conseguir un cuerpo musculoso, marcado y saludable, es importante tener en cuenta tu metabolismo basal (2,000 kcal), tu peso (74 kg), altura (1.81 m), y edad (35 años). Según el libro *Peak* de Marc Bubbs, la clave es equilibrar nutrición, entrenamiento y descanso para optimizar el rendimiento físico sin ser un atleta de élite. A continuación, te presento dos planes de dieta (uno para México y otro para España) adaptados a tu objetivo, junto con un programa de entrenamiento.
 
-## **Dieta para México**
-
 ### **Objetivo**: Ganancia muscular magra
 
 ### **Calorías diarias**: Aproximadamente 2,500-2,800 kcal

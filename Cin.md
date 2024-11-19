@@ -1,5 +1,3 @@
-# peak
-
 ### **Datos iniciales**:
 - **Edad**: 32 años
 - **Altura**: 165 cm
